@@ -1,0 +1,15 @@
+c:\users\oem\documents\visual studio 2015\Projects\SlimGymOne\SlimGymOne\bin\Debug\SlimGymOne.exe.config
+c:\users\oem\documents\visual studio 2015\Projects\SlimGymOne\SlimGymOne\bin\Debug\SlimGymOne.exe
+c:\users\oem\documents\visual studio 2015\Projects\SlimGymOne\SlimGymOne\bin\Debug\SlimGymOne.pdb
+c:\users\oem\documents\visual studio 2015\Projects\SlimGymOne\SlimGymOne\obj\Debug\SlimGymOne.csprojResolveAssemblyReference.cache
+c:\users\oem\documents\visual studio 2015\Projects\SlimGymOne\SlimGymOne\obj\Debug\SlimGymOne.Form1.resources
+c:\users\oem\documents\visual studio 2015\Projects\SlimGymOne\SlimGymOne\obj\Debug\SlimGymOne.Properties.Resources.resources
+c:\users\oem\documents\visual studio 2015\Projects\SlimGymOne\SlimGymOne\obj\Debug\SlimGymOne.csproj.GenerateResource.Cache
+c:\users\oem\documents\visual studio 2015\Projects\SlimGymOne\SlimGymOne\obj\Debug\SlimGymOne.exe
+c:\users\oem\documents\visual studio 2015\Projects\SlimGymOne\SlimGymOne\obj\Debug\SlimGymOne.pdb
+C:\Users\OEM\documents\visual studio 2015\Projects\SlimGymOne\SlimGymOne\obj\Debug\SlimGymOne.Registration.resources
+C:\Users\OEM\documents\visual studio 2015\Projects\SlimGymOne\SlimGymOne\bin\Debug\SlimGymOne.mdf
+C:\Users\OEM\documents\visual studio 2015\Projects\SlimGymOne\SlimGymOne\bin\Debug\SlimGymOne_log.ldf
+D:\Ntec\SlimGymOne\SlimGymOne\bin\Debug\SlimGymOne.exe.config
+D:\Ntec\SlimGymOne\SlimGymOne\obj\Debug\SlimGymOne.exe
+D:\Ntec\SlimGymOne\SlimGymOne\obj\Debug\SlimGymOne.pdb
